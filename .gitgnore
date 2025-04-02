@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# VSCode
+.vscode/
+
+# Playwright browser binaries
+playwright/.cache/
+playwright/.playwright/
+
+# Mac/Win system files
+.DS_Store
+Thumbs.db
+
